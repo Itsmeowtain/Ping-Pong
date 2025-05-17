@@ -1,6 +1,8 @@
 # Ping-Pong
 Multiplayer Ping-pong game
 
+YOU MUST HAVE JRE OR JDK ON YOUR OPERATING SYSTEM
+
 When you first boot up the game, the program will prompt you with if you want to be a Server or Host:
 
 If you want to play singleplayer, you may leave the IP address bar blank
